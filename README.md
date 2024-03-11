@@ -13,22 +13,23 @@ My journey in computer science has fueled my passion for software development in
 ## Skills
 
 **Programming Languages:**  
-Python, Java, C++, Perl
+[Python](#), [Java](#), [C++](#), [Perl](#)
 
 **Web Dev:**  
-HTML5, CSS3, JavaScript, Angular, React.js, Node.js, Express.js, GraphQL
+[HTML5](#), [CSS3](#), [JavaScript](#), [Angular](#), [React.js](#), [Node.js](#), [Express.js](#), [GraphQL](#)
 
 **Databases:**  
-MySQL, MongoDB, InfluxDB
+[MySQL](#), [MongoDB](#), [InfluxDB](#)
 
 **Cloud Technologies:**  
-Amazon Web Services (S3, RDS, SDK, IAM, EC2, CloudFront, Lambda), Azure Fundamentals, Azure Machine Learning Studio
+[Amazon Web Services (S3, RDS, SDK, IAM, EC2, CloudFront, Lambda)](#), [Azure Fundamentals](#), [Azure Machine Learning Studio](#)
 
 **Tools and Software:**  
-Tableau, LISp-Miner, Excel, VMware, Visual Studio Code, Git, JUnit, Selenium, Cypress Postman, JIRA, Confluence
+[Tableau](#), [LISp-Miner](#), [Excel](#), [VMware](#), [Visual Studio Code](#), [Git](#), [JUnit](#), [Selenium](#), [Cypress](#), [Postman](#), [JIRA](#), [Confluence](#)
 
 **Certifications:**  
-CCNA, CompTIA Network+, AWS Cloud, AWS Machine Learning, MongoDB for SQL by MongoDB University
+[CCNA](#), [CompTIA Network+](#), [AWS Cloud](#), [AWS Machine Learning](#), [MongoDB for SQL by MongoDB University](#)
+
 
 
 
