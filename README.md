@@ -13,18 +13,23 @@ My journey in computer science has fueled my passion for software development in
 ## Skills
 
 **Programming Languages:**  
+
 <span style="color:blue;">Python</span>, <span style="color:blue;">Java</span>, <span style="color:blue;">C++</span>, <span style="color:blue;">Perl</span>
 
 **Web Dev:**  
+
 <span style="color:blue;">HTML5</span>, <span style="color:blue;">CSS3</span>, <span style="color:blue;">JavaScript</span>, <span style="color:blue;">Angular</span>, <span style="color:blue;">React.js</span>, <span style="color:blue;">Node.js</span>, <span style="color:blue;">Express.js</span>, <span style="color:blue;">GraphQL</span>
 
 **Databases:**  
+
 <span style="color:blue;">MySQL</span>, <span style="color:blue;">MongoDB</span>, <span style="color:blue;">InfluxDB</span>
 
 **Cloud Technologies:**  
+
 <span style="color:blue;">Amazon Web Services (S3, RDS, SDK, IAM, EC2, CloudFront, Lambda)</span>, <span style="color:blue;">Azure Fundamentals</span>, <span style="color:blue;">Azure Machine Learning Studio</span>
 
 **Tools and Software:**  
+
 <span style="color:blue;">Tableau</span>, <span style="color:blue;">LISp-Miner</span>, <span style="color:blue;">Excel</span>, <span style="color:blue;">VMware</span>, <span style="color:blue;">Visual Studio Code</span>, <span style="color:blue;">Git</span>, <span style="color:bl
 
 
