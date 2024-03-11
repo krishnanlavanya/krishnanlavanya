@@ -23,14 +23,15 @@ Certifications: CCNA, CompTIA Network+, AWS Cloud, AWS Machine Learning, MongoDB
 ## Projects
 
 
-AI instructed Yoga <a href = "https://github.com/krishnanlavanya/AI-Instructed-Yoga"> <br>
-Resume and Profile Matching <a href = "https://github.com/krishnanlavanya/Resume-Skill-Profile-Matching-Project"> <br>
-Lung Cancer Classification using Neural Networks <a href = "https://github.com/krishnanlavanya/Lung-Cancer-Classification-Using-Neural-Networks"> <br>
-Hangman Game <a href = "https://github.com/krishnanlavanya/HangmanGame"> <br>
-Personal Expense Tracker <a href = "https://github.com/krishnanlavanya/Personal-Expense-Tracker"> <br>
-Voice Over Transportation Query System <a href = "https://github.com/krishnanlavanya/VoiceOver-TransportationQuery-System"> <br>
-Database Project Courier Operation Managemtn <a href = "https://github.com/krishnanlavanya/-Database-Management-Project-Courier-Operations-Management-"> <br>
-Event Hub <a href = "https://github.com/krishnanlavanya/Event-Hub"> <br>
-Network Chat Bot <a href = "https://github.com/krishnanlavanya/Network-Chat"> <br>
-TicTacToe iOs App <a href = "https://github.com/krishnanlavanya/MyFirstiOsApp"> <br>
-Timer iOs App <a href = "https://github.com/krishnanlavanya/Timer-Swift"> <br>
+**AI instructed Yoga** - [GitHub Link](https://github.com/krishnanlavanya/AI-Instructed-Yoga) <br>
+**Resume and Profile Matching** - [GitHub Link](https://github.com/krishnanlavanya/Resume-Skill-Profile-Matching-Project) <br>
+**Lung Cancer Classification using Neural Networks** - [GitHub Link](https://github.com/krishnanlavanya/Lung-Cancer-Classification-Using-Neural-Networks) <br>
+**Hangman Game** - [GitHub Link](https://github.com/krishnanlavanya/HangmanGame) <br>
+**Personal Expense Tracker** - [GitHub Link](https://github.com/krishnanlavanya/Personal-Expense-Tracker) <br>
+**Voice Over Transportation Query System** - [GitHub Link](https://github.com/krishnanlavanya/VoiceOver-TransportationQuery-System) <br>
+**Database Project Courier Operation Management** - [GitHub Link](https://github.com/krishnanlavanya/-Database-Management-Project-Courier-Operations-Management-) <br>
+**Event Hub** - [GitHub Link](https://github.com/krishnanlavanya/Event-Hub) <br>
+**Network Chat Bot** - [GitHub Link](https://github.com/krishnanlavanya/Network-Chat) <br>
+**TicTacToe iOs App** - [GitHub Link](https://github.com/krishnanlavanya/MyFirstiOsApp) <br>
+**Timer iOs App** - [GitHub Link](https://github.com/krishnanlavanya/Timer-Swift) <br>
+
