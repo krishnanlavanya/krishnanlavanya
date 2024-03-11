@@ -21,6 +21,8 @@ Certifications: CCNA, CompTIA Network+, AWS Cloud, AWS Machine Learning, MongoDB
 
 
 ## Projects
+
+
 AI instructed Yoga <a href = "https://github.com/krishnanlavanya/AI-Instructed-Yoga"> <br>
 Resume and Profile Matching <a href = "https://github.com/krishnanlavanya/Resume-Skill-Profile-Matching-Project"> <br>
 Lung Cancer Classification using Neural Networks <a href = "https://github.com/krishnanlavanya/Lung-Cancer-Classification-Using-Neural-Networks"> <br>
