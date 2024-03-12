@@ -30,7 +30,7 @@ My journey in computer science has fueled my passion for software development in
 
 **Tools and Software:**  
 
-<span style="color:blue;">Tableau</span>, <span style="color:blue;">LISp-Miner</span>, <span style="color:blue;">Excel</span>, <span style="color:blue;">VMware</span>, <span style="color:blue;">Visual Studio Code</span>, <span style="color:blue;">Git</span>, <span style="color:blue;">JUnit </span>, <span style="color:blue;">Selenium </span>, <span style="color:blue;"> Cypress </span>, <span style="color:blue;">Postman </span>, <span style="color:blue;">JIRA </span>,<span style="color:blue;">Confluence</span>,
+<span style="color:blue;">Tableau</span>, <span style="color:blue;">LISp-Miner</span>, <span style="color:blue;">Excel</span>, <span style="color:blue;">VMware</span>, <span style="color:blue;">Visual Studio Code</span>, <span style="color:blue;">Git</span>, <span style="color:blue;">JUnit </span>, <span style="color:blue;">Selenium </span>, <span style="color:blue;"> Cypress </span>, <span style="color:blue;">Postman </span>, <span style="color:blue;">JIRA </span>,<span style="color:blue;">Confluence</span>
 
 
 ## Projects
