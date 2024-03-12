@@ -36,7 +36,7 @@ My journey in computer science has fueled my passion for software development in
 ## Projects
 
 
-**AI instructed Yoga** - [GitHub Link](https://github.com/krishnanlavanya/AI-Instructed-Yoga) <br>
+**Artificial Intelligence Instructed Yoga** - [GitHub Link](https://github.com/krishnanlavanya/AI-Instructed-Yoga) <br>
 **Resume and Profile Matching** - [GitHub Link](https://github.com/krishnanlavanya/Resume-Skill-Profile-Matching-Project) <br>
 **Lung Cancer Classification using Neural Networks** - [GitHub Link](https://github.com/krishnanlavanya/Lung-Cancer-Classification-Using-Neural-Networks) <br>
 **Hangman Game** - [GitHub Link](https://github.com/krishnanlavanya/HangmanGame) <br>
