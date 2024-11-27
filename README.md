@@ -2,7 +2,6 @@
 
 I am eager to collaborate on transformative projects. Feel free to connect with me via email at lavanyakrishnan1998.lk@gmail.com or explore more about my work on LinkedIn .
 
-<a href="https://www.linkedin.com/in/krishnanlavanya/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a master's graduate with a profound interest in technology and data, dedicated to solving complex problems. As a software engineer with over 3 years of experience, I have a proven track record in the field.
 
